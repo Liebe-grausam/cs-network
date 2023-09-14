@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hyx/桌面/csnetwork_lab0/cs-network/hellonetwork.cpp
+iostream
+-
+cstdlib
+-
+stdlib.h
+-
+
